@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-86&layout=compact&theme=gothammerkomerko&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-86&layout=compact&theme=gotham&hide_border=true" />
 
 ### Connect with me:
 
