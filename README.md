@@ -6,7 +6,7 @@
 
 - ⚡ In 2016 I just written my first [C++ programs for ATmega328][HomeAutomation] and understood: programming will be a part of my life (inevitable). 
 - 💧 I’m currently learning Drupal CMF
-- 🥅 2021 Goal: Became a Junior Drupal developer
+- 🥅 Goal: Became a Fullstack developer
 
 ## My GitHub stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krypton-86&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" /> 
