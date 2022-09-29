@@ -2,8 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Peter38019371?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPeter38019371&screen_name=Peter38019371)
 
-## I'm a Husband, Developer, and Inventor!
-
 - ⚡ In 2016 I just written my first [C++ programs for ATmega328][HomeAutomation] and understood: programming will be a part of my life (inevitable). 
 - 💧 I’m currently learning Drupal CMF
 - 🥅 Goal: Became a Fullstack developer
